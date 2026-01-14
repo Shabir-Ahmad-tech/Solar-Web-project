@@ -40,8 +40,8 @@ The website serves as a digital storefront for the business, allowing customers 
 
 **Kabal Solar Company**
 - **Location**: Kabal Chowk Near Khyber Hospital, Kabal, Swat, Pakistan
-- **Phone**: +92 346 3499302
-- **Email**: sohailahmad074@gmail.com
+- **Phone**: +92 3704192331
+- **Email**: shabirahmad.tech@gmail.com
 
 ---
 
