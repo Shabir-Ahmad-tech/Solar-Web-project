@@ -1,0 +1,21 @@
+<!-- 
+    PLACEHOLDER IMAGE
+    
+    Replace this file with your actual logo.
+    
+    Recommended specifications:
+    - Format: PNG with transparency
+    - Size: 200px x 50px (width x height)
+    - Use high resolution for retina displays
+    - Keep file size under 50KB
+    
+    Your logo should include:
+    - Company name: "Kabal Solar System"
+    - Optional: Solar panel or sun icon
+    - Use brand colors: Blue (#0A3D62) and Gold (#F39C12)
+-->
+
+📝 **REPLACE THIS FILE WITH YOUR LOGO**
+
+File: logo.png
+Location: assets/images/logo.png
